@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalkannsgit](https://github.com/vishalkannsgit)
 
-- 💬 Ask me about **LINUX**
+- 💬 Ask me about **PYTHON AND LINUX**
 
 - 📫 How to reach me **vishalkanns@outlook.com**
 
-- 📄 Know about my experiences   "<i>I am a student of</i><b>Linux</b>"
+- 📄 Know about my experiences   "<i>I am a student of</i> <b> Linux </b>"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
