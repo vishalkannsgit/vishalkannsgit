@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <b>PYTHON</b>
 
-- 🌱 I’m currently learning **PYTHON,DJANGO AND JAVASCRIPT**
+- 🌱 I’m currently learning **DJANGO AND REACT NATIVE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalkannsgit](https://github.com/vishalkannsgit)
 
